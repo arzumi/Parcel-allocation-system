@@ -1,4 +1,4 @@
-# Parcel-allocation-system-
+# Parcel-allocation-system
 • This is a parcel allocation system that can efficiently allocate a list of parcels to given trucks with specified priorities. 
 
 • Collaborated with a partner to create a system which can allocate parcels based on their priorities and trucks’
